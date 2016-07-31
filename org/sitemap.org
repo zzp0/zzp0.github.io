@@ -1,3 +1,0 @@
-#+TITLE: Site Map
-
-   + [[file:hello-world][This Is Org File]] 2016-07-31
