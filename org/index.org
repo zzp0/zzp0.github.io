@@ -1,0 +1,3 @@
+#+TITLE: (zzp-log (random))
+
+   + [[file:hello-world][This Is Org File]] 2016-07-31
