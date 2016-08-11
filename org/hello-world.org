@@ -2,7 +2,7 @@
 
 * Hello 世界
   #+BEGIN_SRC elisp
-    (if wheather-is-hot
+    (if weather-is-hot
         (stay-home)
       (go-out))
   #+END_SRC
